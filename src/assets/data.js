@@ -1,0 +1,42 @@
+export const data = [
+  {
+    question: "Who is the GOAT of Screen Presence?",
+    option1: "Thalapathy Vijay",
+    option2: "Shah Rukh Khan",
+    option3: "Prabhas",
+    option4: "Kamal Haasan",
+    ans: 1,
+  },
+  {
+    question: "What is Vijay's popular nickname?",
+    option1: "Thala",
+    option2: "SuperStar",
+    option3: "IlayaThalapathy",
+    option4: "Thalapathy",
+    ans: 4,
+  },
+  {
+    question: "How many films has Vijay played the lead role in?",
+    option1: "68",
+    option2: "50",
+    option3: "75",
+    option4: "46",
+    ans: 1,
+  },
+  {
+    question: "In which film Vijay played double role (One as a Villain)?",
+    option1: "Leo",
+    option2: "Master",
+    option3: "GOAT",
+    option4: "Beast",
+    ans: 3,
+  },
+  {
+    question: "What was Thalapathy Vijay's name in Master?",
+    option1: "Sanjay",
+    option2: "JD",
+    option3: "Gandhi",
+    option4: "Parthiban",
+    ans: 2,
+  },
+];
